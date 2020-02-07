@@ -1,7 +1,7 @@
 # transitchecker-service
 This is the service that allows to check if the Vehicle is Allow To transit according to the  Ecuadorian "Pico y Placa" rules
 
-#Software Requisites
+# Software Requirements
 
 * JDK 1.8 or greater
 * Maven
